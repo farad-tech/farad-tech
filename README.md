@@ -1,5 +1,5 @@
 # About Me:
-🔭 I’m currently working on Dar Saharai Trading Co. company website<br>🌱 I’m currently learning Graphql<br>👨‍💻 All of my projects are available at https://farhadkarami.ir<br>📝 I regularly write articles on https://linkedin.com/in/farhad-karami<br>💬 Ask me about Laravel, PHP, Web developing, ...<br>📫 How to reach me farhadkarami@yahoo.com<br>
+🔭 I’m currently working on Dar Saharai Trading Co. business website<br>🌱 I’m currently learning Graphql<br>👨‍💻 All of my projects are available at https://farhadkarami.ir<br>📝 I regularly write articles on https://linkedin.com/in/farhad-karami<br>💬 Ask me about Laravel, PHP, Web developing, ...<br>📫 How to reach me farhadkarami@yahoo.com<br>
 
 
 ## 🌐 Socials:
